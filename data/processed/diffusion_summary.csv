@@ -1,0 +1,25 @@
+trend_slug,trend_label,threshold,start_date,start_year,countries_eventually_crossed,milestone_countries,milestone_date,months_to_milestone
+camelbak_water_bottle,CamelBak,20.0,2012-02-01,2012,6,5,2015-08-01,42
+camelbak_water_bottle,CamelBak,20.0,2012-02-01,2012,6,10,,
+camelbak_water_bottle,CamelBak,20.0,2012-02-01,2012,6,15,,
+camelbak_water_bottle,CamelBak,20.0,2012-02-01,2012,6,20,,
+frank_green_water_bottle,Frank Green,20.0,2021-01-01,2021,2,5,,
+frank_green_water_bottle,Frank Green,20.0,2021-01-01,2021,2,10,,
+frank_green_water_bottle,Frank Green,20.0,2021-01-01,2021,2,15,,
+frank_green_water_bottle,Frank Green,20.0,2021-01-01,2021,2,20,,
+hydro_flask_water_bottle,Hydro Flask,20.0,2016-08-01,2016,4,5,,
+hydro_flask_water_bottle,Hydro Flask,20.0,2016-08-01,2016,4,10,,
+hydro_flask_water_bottle,Hydro Flask,20.0,2016-08-01,2016,4,15,,
+hydro_flask_water_bottle,Hydro Flask,20.0,2016-08-01,2016,4,20,,
+owala_water_bottle,Owala,20.0,2023-03-01,2023,6,5,2025-09-01,30
+owala_water_bottle,Owala,20.0,2023-03-01,2023,6,10,,
+owala_water_bottle,Owala,20.0,2023-03-01,2023,6,15,,
+owala_water_bottle,Owala,20.0,2023-03-01,2023,6,20,,
+stanley_water_bottle,Stanley,20.0,2022-09-01,2022,6,5,2023-04-01,7
+stanley_water_bottle,Stanley,20.0,2022-09-01,2022,6,10,,
+stanley_water_bottle,Stanley,20.0,2022-09-01,2022,6,15,,
+stanley_water_bottle,Stanley,20.0,2022-09-01,2022,6,20,,
+yeti_water_bottle,Yeti,20.0,2011-10-01,2011,3,5,,
+yeti_water_bottle,Yeti,20.0,2011-10-01,2011,3,10,,
+yeti_water_bottle,Yeti,20.0,2011-10-01,2011,3,15,,
+yeti_water_bottle,Yeti,20.0,2011-10-01,2011,3,20,,

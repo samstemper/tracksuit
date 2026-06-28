@@ -1,0 +1,7 @@
+trend_slug,trend_label,start_date,peak_average_relative_interest,start_threshold,start_window_months,required_active_months,active_months_in_window,window_average_relative_interest
+camelbak_water_bottle,CamelBak,2012-02-01,0.02878922878922879,0.0025,12,9,12,0.009152980598680636
+frank_green_water_bottle,Frank Green,2020-06-01,0.07667362856120659,0.0025,12,9,11,0.005971652363669332
+hydro_flask_water_bottle,Hydro Flask,2018-08-01,0.011241217798594848,0.0025,12,9,12,0.004666585383217054
+owala_water_bottle,Owala,2022-08-01,0.12246086682237318,0.0025,12,9,12,0.006994580662816202
+stanley_water_bottle,Stanley,2022-09-01,0.039830336312408024,0.0025,12,9,12,0.012070273016685456
+yeti_water_bottle,Yeti,2018-08-01,0.09782451658546866,0.0025,12,9,9,0.005019968039889273

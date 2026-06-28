@@ -1,0 +1,37 @@
+trend_slug,trend_label,trend_query,baseline_term,geo,country,raw_file_exists
+camelbak_water_bottle,CamelBak,camelbak drink bottle,drink bottle,AU,Australia,True
+camelbak_water_bottle,CamelBak,camelbak water bottle,water bottle,CA,Canada,True
+camelbak_water_bottle,CamelBak,camelbak water bottle,water bottle,IE,Ireland,True
+camelbak_water_bottle,CamelBak,camelbak drink bottle,drink bottle,NZ,New Zealand,True
+camelbak_water_bottle,CamelBak,camelbak water bottle,water bottle,GB,United Kingdom,True
+camelbak_water_bottle,CamelBak,camelbak water bottle,water bottle,US,United States,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask drink bottle,drink bottle,AU,Australia,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask water bottle,water bottle,CA,Canada,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask water bottle,water bottle,IE,Ireland,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask drink bottle,drink bottle,NZ,New Zealand,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask water bottle,water bottle,GB,United Kingdom,True
+hydro_flask_water_bottle,Hydro Flask,hydro flask water bottle,water bottle,US,United States,True
+yeti_water_bottle,Yeti,yeti drink bottle,drink bottle,AU,Australia,True
+yeti_water_bottle,Yeti,yeti water bottle,water bottle,CA,Canada,True
+yeti_water_bottle,Yeti,yeti water bottle,water bottle,IE,Ireland,True
+yeti_water_bottle,Yeti,yeti drink bottle,drink bottle,NZ,New Zealand,True
+yeti_water_bottle,Yeti,yeti water bottle,water bottle,GB,United Kingdom,True
+yeti_water_bottle,Yeti,yeti water bottle,water bottle,US,United States,True
+frank_green_water_bottle,Frank Green,frank green drink bottle,drink bottle,AU,Australia,True
+frank_green_water_bottle,Frank Green,frank green water bottle,water bottle,CA,Canada,True
+frank_green_water_bottle,Frank Green,frank green water bottle,water bottle,IE,Ireland,True
+frank_green_water_bottle,Frank Green,frank green drink bottle,drink bottle,NZ,New Zealand,True
+frank_green_water_bottle,Frank Green,frank green water bottle,water bottle,GB,United Kingdom,True
+frank_green_water_bottle,Frank Green,frank green water bottle,water bottle,US,United States,True
+stanley_water_bottle,Stanley,stanley drink bottle,drink bottle,AU,Australia,True
+stanley_water_bottle,Stanley,stanley water bottle,water bottle,CA,Canada,True
+stanley_water_bottle,Stanley,stanley water bottle,water bottle,IE,Ireland,True
+stanley_water_bottle,Stanley,stanley drink bottle,drink bottle,NZ,New Zealand,True
+stanley_water_bottle,Stanley,stanley water bottle,water bottle,GB,United Kingdom,True
+stanley_water_bottle,Stanley,stanley water bottle,water bottle,US,United States,True
+owala_water_bottle,Owala,owala drink bottle,drink bottle,AU,Australia,True
+owala_water_bottle,Owala,owala water bottle,water bottle,CA,Canada,True
+owala_water_bottle,Owala,owala water bottle,water bottle,IE,Ireland,True
+owala_water_bottle,Owala,owala drink bottle,drink bottle,NZ,New Zealand,True
+owala_water_bottle,Owala,owala water bottle,water bottle,GB,United Kingdom,True
+owala_water_bottle,Owala,owala water bottle,water bottle,US,United States,True

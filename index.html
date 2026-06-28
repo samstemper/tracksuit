@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Is Brand Diffusion Accelerating?</title>
+      <meta
+        name="description"
+      content="A Google Trends case study on how quickly drink bottle brands spread across English-speaking markets."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="intro reveal is-visible">
+        <p class="kicker">Tracksuit</p>
+        <h1>Are breakout brands going global faster?</h1>
+        <p class="lede">
+          In the digital age, product discovery across borders has accelerated. Do more recent consumer breakouts reach visible demand more quickly than older ones?
+        </p>
+      </header>
+
+      <section class="bridge reveal">
+        <div>
+          <h2>Drink bottles are a useful case study.</h2>
+        </div>
+        <p>
+          Drink bottles are prone to trends in fashion, branded and identifiable, and easy to search for. I use Google Trends data as a proxy for consumer interest across countries and compare how brand search interest appears, persists, and accumulates across English-speaking markets.
+        </p>
+      </section>
+
+      <section class="section-block reveal">
+        <div class="section-heading">
+          <h2>Search interest by brand and country</h2>
+          <p>
+            Later waves move across countries faster: once a brand breaks through in one market, the next countries tend to follow with a shorter delay.
+          </p>
+        </div>
+        <div class="controls" aria-label="Country filters">
+          <button class="country-toggle is-active" type="button" data-country="Australia">Australia</button>
+          <button class="country-toggle is-active" type="button" data-country="Canada">Canada</button>
+          <button class="country-toggle is-active" type="button" data-country="Ireland">Ireland</button>
+          <button class="country-toggle is-active" type="button" data-country="New Zealand">New Zealand</button>
+          <button class="country-toggle is-active" type="button" data-country="United Kingdom">United Kingdom</button>
+          <button class="country-toggle is-active" type="button" data-country="United States">United States</button>
+        </div>
+        <div id="countryChart" class="chart-frame" aria-live="polite"></div>
+      </section>
+
+      <section class="section-block reveal">
+        <div class="section-heading">
+          <h2>Cumulative search interest around takeoff</h2>
+          <p>
+            Shorter scaling times: newer brands accumulate post-takeoff search interest more quickly than older breakouts.
+          </p>
+        </div>
+        <div id="cumulativeChart" class="chart-frame" aria-live="polite"></div>
+      </section>
+
+      <section class="methodology reveal">
+        <h2>Methodology</h2>
+        <p>
+          Data comes from Google Trends via pytrends. The active panel is Australia, Canada, Ireland, New Zealand, the United Kingdom, and the United States. The processed analysis starts in January 2010 and excludes pre-2010 observations. New Zealand and Australia use "drink bottle"; the other countries use "water bottle." For each brand-country-month, the measure is trailing 3-month brand interest divided by trailing 3-month local category interest; zeros are included in the country average. Brand takeoff is the first month where average relative interest is at least 0.0025 and at least 9 of the next 12 months also clear 0.0025. In the first chart, country is color, brand is facet, and the dashed vertical line is takeoff. In the cumulative chart, the 24 months before takeoff are included and the cumulative index is set to 0 at month 0.
+        </p>
+      </section>
+
+      <footer class="site-footer">
+        <span>Created by <a href="https://samstemper.com">Sam Stemper</a></span>
+      </footer>
+    </main>
+
+    <div id="tooltip" class="tooltip" role="status" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

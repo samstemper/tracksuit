@@ -1,0 +1,28 @@
+trend_slug,trend_label,geo,country,first_cross_date,peak_score,start_date,months_since_start
+camelbak_water_bottle,CamelBak,CA,Canada,2012-02-01,22.448979591836736,2012-02-01,0
+camelbak_water_bottle,CamelBak,US,United States,2012-02-01,78.57142857142857,2012-02-01,0
+camelbak_water_bottle,CamelBak,IE,Ireland,2013-04-01,53.65853658536585,2012-02-01,14
+camelbak_water_bottle,CamelBak,NZ,New Zealand,2014-03-01,100.0,2012-02-01,25
+camelbak_water_bottle,CamelBak,AU,Australia,2015-08-01,94.28571428571428,2012-02-01,42
+camelbak_water_bottle,CamelBak,GB,United Kingdom,2018-08-01,20.754716981132074,2012-02-01,78
+frank_green_water_bottle,Frank Green,AU,Australia,2021-01-01,95.18479958355024,2021-01-01,0
+frank_green_water_bottle,Frank Green,NZ,New Zealand,2022-01-01,100.0,2021-01-01,12
+hydro_flask_water_bottle,Hydro Flask,IE,Ireland,2016-08-01,100.0,2016-08-01,0
+hydro_flask_water_bottle,Hydro Flask,US,United States,2018-07-01,78.33333333333334,2016-08-01,23
+hydro_flask_water_bottle,Hydro Flask,CA,Canada,2019-04-01,65.27777777777777,2016-08-01,32
+hydro_flask_water_bottle,Hydro Flask,NZ,New Zealand,2022-01-01,61.03896103896104,2016-08-01,65
+owala_water_bottle,Owala,US,United States,2023-03-01,93.0779569892473,2023-03-01,0
+owala_water_bottle,Owala,CA,Canada,2023-10-01,81.4705882352941,2023-03-01,7
+owala_water_bottle,Owala,IE,Ireland,2024-07-01,100.00000000000001,2023-03-01,16
+owala_water_bottle,Owala,GB,United Kingdom,2024-12-01,44.20212765957447,2023-03-01,21
+owala_water_bottle,Owala,NZ,New Zealand,2025-09-01,23.083333333333332,2023-03-01,30
+owala_water_bottle,Owala,AU,Australia,2025-11-01,31.572948328267476,2023-03-01,32
+stanley_water_bottle,Stanley,US,United States,2022-09-01,81.98298187199407,2022-09-01,0
+stanley_water_bottle,Stanley,CA,Canada,2022-10-01,84.39184438715725,2022-09-01,1
+stanley_water_bottle,Stanley,IE,Ireland,2023-01-01,100.0,2022-09-01,4
+stanley_water_bottle,Stanley,AU,Australia,2023-03-01,65.17647058823529,2022-09-01,6
+stanley_water_bottle,Stanley,NZ,New Zealand,2023-04-01,78.21176470588235,2022-09-01,7
+stanley_water_bottle,Stanley,GB,United Kingdom,2023-08-01,55.469336670838544,2022-09-01,11
+yeti_water_bottle,Yeti,AU,Australia,2011-10-01,100.0,2011-10-01,0
+yeti_water_bottle,Yeti,NZ,New Zealand,2022-10-01,58.58481938728851,2011-10-01,132
+yeti_water_bottle,Yeti,CA,Canada,2024-01-01,20.750332005312078,2011-10-01,147

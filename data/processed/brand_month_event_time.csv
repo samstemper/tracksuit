@@ -1,0 +1,1189 @@
+date,trend_slug,trend_label,average_relative_interest,countries_available,start_date,months_from_start
+2010-01-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-25
+2010-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-125
+2010-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-103
+2010-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-151
+2010-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-152
+2010-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-103
+2010-02-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-24
+2010-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-124
+2010-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-102
+2010-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-150
+2010-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-151
+2010-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-102
+2010-03-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-23
+2010-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-123
+2010-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-101
+2010-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-149
+2010-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-150
+2010-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-101
+2010-04-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-22
+2010-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-122
+2010-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-100
+2010-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-148
+2010-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-149
+2010-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-100
+2010-05-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-21
+2010-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-121
+2010-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-99
+2010-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-147
+2010-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-148
+2010-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-99
+2010-06-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-20
+2010-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-120
+2010-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-98
+2010-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-146
+2010-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-147
+2010-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-98
+2010-07-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-19
+2010-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-119
+2010-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-97
+2010-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-145
+2010-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-146
+2010-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-97
+2010-08-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-18
+2010-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-118
+2010-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-96
+2010-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-144
+2010-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-145
+2010-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-96
+2010-09-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-17
+2010-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-117
+2010-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-95
+2010-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-143
+2010-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-144
+2010-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-95
+2010-10-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-16
+2010-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-116
+2010-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-94
+2010-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-142
+2010-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-143
+2010-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-94
+2010-11-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-15
+2010-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-115
+2010-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-93
+2010-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-141
+2010-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-142
+2010-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-93
+2010-12-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-14
+2010-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-114
+2010-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-92
+2010-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-140
+2010-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-141
+2010-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-92
+2011-01-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-13
+2011-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-113
+2011-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-91
+2011-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-139
+2011-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-140
+2011-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-91
+2011-02-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-12
+2011-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-112
+2011-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-90
+2011-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-138
+2011-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-139
+2011-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-90
+2011-03-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-11
+2011-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-111
+2011-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-89
+2011-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-137
+2011-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-138
+2011-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-89
+2011-04-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-10
+2011-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-110
+2011-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-88
+2011-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-136
+2011-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-137
+2011-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-88
+2011-05-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-9
+2011-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-109
+2011-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-87
+2011-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-135
+2011-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-136
+2011-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-87
+2011-06-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-8
+2011-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-108
+2011-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-86
+2011-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-134
+2011-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-135
+2011-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-86
+2011-07-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-7
+2011-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-107
+2011-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-85
+2011-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-133
+2011-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-134
+2011-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-85
+2011-08-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-6
+2011-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-106
+2011-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-84
+2011-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-132
+2011-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-133
+2011-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-84
+2011-09-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-5
+2011-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-105
+2011-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-83
+2011-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-131
+2011-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-132
+2011-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-83
+2011-10-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-4
+2011-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-104
+2011-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-82
+2011-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-130
+2011-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-131
+2011-10-01,yeti_water_bottle,Yeti,0.010416666666666666,6,2018-08-01,-82
+2011-11-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-3
+2011-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-103
+2011-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-81
+2011-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-129
+2011-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-130
+2011-11-01,yeti_water_bottle,Yeti,0.009803921568627449,6,2018-08-01,-81
+2011-12-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-2
+2011-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-102
+2011-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-80
+2011-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-128
+2011-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-129
+2011-12-01,yeti_water_bottle,Yeti,0.008333333333333333,6,2018-08-01,-80
+2012-01-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,-1
+2012-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-101
+2012-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-79
+2012-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-127
+2012-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-128
+2012-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-79
+2012-02-01,camelbak_water_bottle,CamelBak,0.007568027210884354,6,2012-02-01,0
+2012-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-100
+2012-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-78
+2012-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-126
+2012-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-127
+2012-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-78
+2012-03-01,camelbak_water_bottle,CamelBak,0.007398373983739837,6,2012-02-01,1
+2012-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-99
+2012-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-77
+2012-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-125
+2012-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-126
+2012-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-77
+2012-04-01,camelbak_water_bottle,CamelBak,0.011204481792717087,6,2012-02-01,2
+2012-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-98
+2012-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-76
+2012-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-124
+2012-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-125
+2012-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-76
+2012-05-01,camelbak_water_bottle,CamelBak,0.0070921985815602835,6,2012-02-01,3
+2012-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-97
+2012-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-75
+2012-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-123
+2012-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-124
+2012-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-75
+2012-06-01,camelbak_water_bottle,CamelBak,0.010204081632653062,6,2012-02-01,4
+2012-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-96
+2012-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-74
+2012-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-122
+2012-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-123
+2012-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-74
+2012-07-01,camelbak_water_bottle,CamelBak,0.00980392156862745,6,2012-02-01,5
+2012-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-95
+2012-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-73
+2012-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-121
+2012-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-122
+2012-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-73
+2012-08-01,camelbak_water_bottle,CamelBak,0.010204081632653062,6,2012-02-01,6
+2012-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-94
+2012-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-72
+2012-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-120
+2012-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-121
+2012-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-72
+2012-09-01,camelbak_water_bottle,CamelBak,0.010416666666666666,6,2012-02-01,7
+2012-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-93
+2012-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-71
+2012-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-119
+2012-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-120
+2012-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-71
+2012-10-01,camelbak_water_bottle,CamelBak,0.007575757575757576,6,2012-02-01,8
+2012-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-92
+2012-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-70
+2012-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-118
+2012-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-119
+2012-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-70
+2012-11-01,camelbak_water_bottle,CamelBak,0.008130081300813009,6,2012-02-01,9
+2012-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-91
+2012-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-69
+2012-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-117
+2012-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-118
+2012-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-69
+2012-12-01,camelbak_water_bottle,CamelBak,0.008333333333333333,6,2012-02-01,10
+2012-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-90
+2012-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-68
+2012-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-116
+2012-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-117
+2012-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-68
+2013-01-01,camelbak_water_bottle,CamelBak,0.011904761904761904,6,2012-02-01,11
+2013-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-89
+2013-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-67
+2013-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-115
+2013-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-116
+2013-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-67
+2013-02-01,camelbak_water_bottle,CamelBak,0.010638297872340427,6,2012-02-01,12
+2013-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-88
+2013-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-66
+2013-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-114
+2013-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-115
+2013-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-66
+2013-03-01,camelbak_water_bottle,CamelBak,0.010204081632653062,6,2012-02-01,13
+2013-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-87
+2013-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-65
+2013-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-113
+2013-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-114
+2013-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-65
+2013-04-01,camelbak_water_bottle,CamelBak,0.013763763763763764,6,2012-02-01,14
+2013-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-86
+2013-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-64
+2013-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-112
+2013-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-113
+2013-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-64
+2013-05-01,camelbak_water_bottle,CamelBak,0.01402116402116402,6,2012-02-01,15
+2013-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-85
+2013-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-63
+2013-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-111
+2013-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-112
+2013-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-63
+2013-06-01,camelbak_water_bottle,CamelBak,0.013992869875222816,6,2012-02-01,16
+2013-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-84
+2013-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-62
+2013-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-110
+2013-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-111
+2013-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-62
+2013-07-01,camelbak_water_bottle,CamelBak,0.009090909090909092,6,2012-02-01,17
+2013-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-83
+2013-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-61
+2013-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-109
+2013-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-110
+2013-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-61
+2013-08-01,camelbak_water_bottle,CamelBak,0.008771929824561403,6,2012-02-01,18
+2013-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-82
+2013-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-60
+2013-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-108
+2013-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-109
+2013-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-60
+2013-09-01,camelbak_water_bottle,CamelBak,0.014062935115566694,6,2012-02-01,19
+2013-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-81
+2013-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-59
+2013-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-107
+2013-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-108
+2013-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-59
+2013-10-01,camelbak_water_bottle,CamelBak,0.014540337711069419,6,2012-02-01,20
+2013-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-80
+2013-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-58
+2013-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-106
+2013-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-107
+2013-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-58
+2013-11-01,camelbak_water_bottle,CamelBak,0.013678451178451179,6,2012-02-01,21
+2013-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-79
+2013-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-57
+2013-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-105
+2013-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-106
+2013-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-57
+2013-12-01,camelbak_water_bottle,CamelBak,0.011273448773448774,6,2012-02-01,22
+2013-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-78
+2013-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-56
+2013-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-104
+2013-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-105
+2013-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-56
+2014-01-01,camelbak_water_bottle,CamelBak,0.012056173820879703,6,2012-02-01,23
+2014-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-77
+2014-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-55
+2014-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-103
+2014-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-104
+2014-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-55
+2014-02-01,camelbak_water_bottle,CamelBak,0.012307525482541748,6,2012-02-01,24
+2014-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-76
+2014-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-54
+2014-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-102
+2014-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-103
+2014-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-54
+2014-03-01,camelbak_water_bottle,CamelBak,0.02483550400217067,6,2012-02-01,25
+2014-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-75
+2014-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-53
+2014-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-101
+2014-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-102
+2014-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-53
+2014-04-01,camelbak_water_bottle,CamelBak,0.023113443278360818,6,2012-02-01,26
+2014-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-74
+2014-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-52
+2014-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-100
+2014-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-101
+2014-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-52
+2014-05-01,camelbak_water_bottle,CamelBak,0.023088023088023088,6,2012-02-01,27
+2014-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-73
+2014-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-51
+2014-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-99
+2014-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-100
+2014-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-51
+2014-06-01,camelbak_water_bottle,CamelBak,0.007936507936507936,6,2012-02-01,28
+2014-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-72
+2014-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-50
+2014-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-98
+2014-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-99
+2014-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-50
+2014-07-01,camelbak_water_bottle,CamelBak,0.007692307692307692,6,2012-02-01,29
+2014-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-71
+2014-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-49
+2014-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-97
+2014-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-98
+2014-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-49
+2014-08-01,camelbak_water_bottle,CamelBak,0.0078125,6,2012-02-01,30
+2014-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-70
+2014-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-48
+2014-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-96
+2014-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-97
+2014-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-48
+2014-09-01,camelbak_water_bottle,CamelBak,0.0078125,6,2012-02-01,31
+2014-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-69
+2014-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-47
+2014-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-95
+2014-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-96
+2014-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-47
+2014-10-01,camelbak_water_bottle,CamelBak,0.00847457627118644,6,2012-02-01,32
+2014-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-68
+2014-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-46
+2014-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-94
+2014-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-95
+2014-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-46
+2014-11-01,camelbak_water_bottle,CamelBak,0.009259259259259259,6,2012-02-01,33
+2014-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-67
+2014-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-45
+2014-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-93
+2014-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-94
+2014-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-45
+2014-12-01,camelbak_water_bottle,CamelBak,0.009259259259259259,6,2012-02-01,34
+2014-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-66
+2014-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-44
+2014-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-92
+2014-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-93
+2014-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-44
+2015-01-01,camelbak_water_bottle,CamelBak,0.008620689655172415,6,2012-02-01,35
+2015-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-65
+2015-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-43
+2015-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-91
+2015-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-92
+2015-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-43
+2015-02-01,camelbak_water_bottle,CamelBak,0.00819672131147541,6,2012-02-01,36
+2015-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-64
+2015-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-42
+2015-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-90
+2015-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-91
+2015-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-42
+2015-03-01,camelbak_water_bottle,CamelBak,0.008064516129032258,6,2012-02-01,37
+2015-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-63
+2015-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-41
+2015-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-89
+2015-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-90
+2015-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-41
+2015-04-01,camelbak_water_bottle,CamelBak,0.0078125,6,2012-02-01,38
+2015-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-62
+2015-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-40
+2015-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-88
+2015-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-89
+2015-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-40
+2015-05-01,camelbak_water_bottle,CamelBak,0.007352941176470587,6,2012-02-01,39
+2015-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-61
+2015-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-39
+2015-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-87
+2015-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-88
+2015-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-39
+2015-06-01,camelbak_water_bottle,CamelBak,0.006756756756756756,6,2012-02-01,40
+2015-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-60
+2015-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-38
+2015-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-86
+2015-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-87
+2015-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-38
+2015-07-01,camelbak_water_bottle,CamelBak,0.01848370927318296,6,2012-02-01,41
+2015-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-59
+2015-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-37
+2015-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-85
+2015-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-86
+2015-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-37
+2015-08-01,camelbak_water_bottle,CamelBak,0.024439102564102564,6,2012-02-01,42
+2015-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-58
+2015-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-36
+2015-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-84
+2015-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-85
+2015-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-36
+2015-09-01,camelbak_water_bottle,CamelBak,0.02438868976503385,6,2012-02-01,43
+2015-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-57
+2015-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-35
+2015-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-83
+2015-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-84
+2015-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-35
+2015-10-01,camelbak_water_bottle,CamelBak,0.012092758571631812,6,2012-02-01,44
+2015-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-56
+2015-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-34
+2015-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-82
+2015-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-83
+2015-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-34
+2015-11-01,camelbak_water_bottle,CamelBak,0.01173890608875129,6,2012-02-01,45
+2015-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-55
+2015-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-33
+2015-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-81
+2015-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-82
+2015-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-33
+2015-12-01,camelbak_water_bottle,CamelBak,0.010950080515297908,6,2012-02-01,46
+2015-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-54
+2015-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-32
+2015-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-80
+2015-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-81
+2015-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-32
+2016-01-01,camelbak_water_bottle,CamelBak,0.01342342342342342,6,2012-02-01,47
+2016-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-53
+2016-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-31
+2016-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-79
+2016-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-80
+2016-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-31
+2016-02-01,camelbak_water_bottle,CamelBak,0.015529715762273901,6,2012-02-01,48
+2016-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-52
+2016-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-30
+2016-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-78
+2016-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-79
+2016-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-30
+2016-03-01,camelbak_water_bottle,CamelBak,0.018822923108637396,6,2012-02-01,49
+2016-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-51
+2016-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-29
+2016-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-77
+2016-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-78
+2016-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-29
+2016-04-01,camelbak_water_bottle,CamelBak,0.019256669256669256,6,2012-02-01,50
+2016-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-50
+2016-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-28
+2016-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-76
+2016-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-77
+2016-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-28
+2016-05-01,camelbak_water_bottle,CamelBak,0.013818860877684407,6,2012-02-01,51
+2016-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-49
+2016-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-27
+2016-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-75
+2016-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-76
+2016-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-27
+2016-06-01,camelbak_water_bottle,CamelBak,0.022836847836847834,6,2012-02-01,52
+2016-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-48
+2016-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-26
+2016-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-74
+2016-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-75
+2016-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-26
+2016-07-01,camelbak_water_bottle,CamelBak,0.023241050414963455,6,2012-02-01,53
+2016-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-47
+2016-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-25
+2016-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-73
+2016-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-74
+2016-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-25
+2016-08-01,camelbak_water_bottle,CamelBak,0.02878922878922879,6,2012-02-01,54
+2016-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-46
+2016-08-01,hydro_flask_water_bottle,Hydro Flask,0.0070921985815602835,6,2018-08-01,-24
+2016-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-72
+2016-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-73
+2016-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-24
+2016-09-01,camelbak_water_bottle,CamelBak,0.019069069069069067,6,2012-02-01,55
+2016-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-45
+2016-09-01,hydro_flask_water_bottle,Hydro Flask,0.006535947712418301,6,2018-08-01,-23
+2016-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-71
+2016-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-72
+2016-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-23
+2016-10-01,camelbak_water_bottle,CamelBak,0.01422882672882673,6,2012-02-01,56
+2016-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-44
+2016-10-01,hydro_flask_water_bottle,Hydro Flask,0.006289308176100628,6,2018-08-01,-22
+2016-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-70
+2016-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-71
+2016-10-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-22
+2016-11-01,camelbak_water_bottle,CamelBak,0.02167573829977922,6,2012-02-01,57
+2016-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-43
+2016-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-21
+2016-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-69
+2016-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-70
+2016-11-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-21
+2016-12-01,camelbak_water_bottle,CamelBak,0.017367102612215902,6,2012-02-01,58
+2016-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-42
+2016-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-20
+2016-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-68
+2016-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-69
+2016-12-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-20
+2017-01-01,camelbak_water_bottle,CamelBak,0.016741940221781597,6,2012-02-01,59
+2017-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-41
+2017-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-19
+2017-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-67
+2017-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-68
+2017-01-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-19
+2017-02-01,camelbak_water_bottle,CamelBak,0.010205992509363297,6,2012-02-01,60
+2017-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-40
+2017-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-18
+2017-02-01,owala_water_bottle,Owala,0.002525252525252525,6,2022-08-01,-66
+2017-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-67
+2017-02-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-18
+2017-03-01,camelbak_water_bottle,CamelBak,0.01294463568559954,6,2012-02-01,61
+2017-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-39
+2017-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-17
+2017-03-01,owala_water_bottle,Owala,0.0026881720430107525,6,2022-08-01,-65
+2017-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-66
+2017-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-17
+2017-04-01,camelbak_water_bottle,CamelBak,0.014338235294117646,6,2012-02-01,62
+2017-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-38
+2017-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-16
+2017-04-01,owala_water_bottle,Owala,0.0028248587570621464,6,2022-08-01,-64
+2017-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-65
+2017-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-16
+2017-05-01,camelbak_water_bottle,CamelBak,0.013279345175896901,6,2012-02-01,63
+2017-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-37
+2017-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-15
+2017-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-63
+2017-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-64
+2017-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-15
+2017-06-01,camelbak_water_bottle,CamelBak,0.010227272727272725,6,2012-02-01,64
+2017-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-36
+2017-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-14
+2017-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-62
+2017-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-63
+2017-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-14
+2017-07-01,camelbak_water_bottle,CamelBak,0.009510658423701902,6,2012-02-01,65
+2017-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-35
+2017-07-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-13
+2017-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-61
+2017-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-62
+2017-07-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-13
+2017-08-01,camelbak_water_bottle,CamelBak,0.011355882679412092,6,2012-02-01,66
+2017-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-34
+2017-08-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-12
+2017-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-60
+2017-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-61
+2017-08-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-12
+2017-09-01,camelbak_water_bottle,CamelBak,0.013239538239538239,6,2012-02-01,67
+2017-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-33
+2017-09-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-11
+2017-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-59
+2017-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-60
+2017-09-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-11
+2017-10-01,camelbak_water_bottle,CamelBak,0.012952898550724637,6,2012-02-01,68
+2017-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-32
+2017-10-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-10
+2017-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-58
+2017-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-59
+2017-10-01,yeti_water_bottle,Yeti,0.0070921985815602835,6,2018-08-01,-10
+2017-11-01,camelbak_water_bottle,CamelBak,0.01136896390060947,6,2012-02-01,69
+2017-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-31
+2017-11-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-9
+2017-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-57
+2017-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-58
+2017-11-01,yeti_water_bottle,Yeti,0.006410256410256411,6,2018-08-01,-9
+2017-12-01,camelbak_water_bottle,CamelBak,0.016852665028515956,6,2012-02-01,70
+2017-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-30
+2017-12-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-8
+2017-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-56
+2017-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-57
+2017-12-01,yeti_water_bottle,Yeti,0.0070076447033127045,6,2018-08-01,-8
+2018-01-01,camelbak_water_bottle,CamelBak,0.015375568373765398,6,2012-02-01,71
+2018-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-29
+2018-01-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-7
+2018-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-55
+2018-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-56
+2018-01-01,yeti_water_bottle,Yeti,0.0019157088122605363,6,2018-08-01,-7
+2018-02-01,camelbak_water_bottle,CamelBak,0.013546448062912891,6,2012-02-01,72
+2018-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-28
+2018-02-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-6
+2018-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-54
+2018-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-55
+2018-02-01,yeti_water_bottle,Yeti,0.0019379844961240308,6,2018-08-01,-6
+2018-03-01,camelbak_water_bottle,CamelBak,0.0078125,6,2012-02-01,73
+2018-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-27
+2018-03-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-5
+2018-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-53
+2018-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-54
+2018-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-5
+2018-04-01,camelbak_water_bottle,CamelBak,0.009090909090909092,6,2012-02-01,74
+2018-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-26
+2018-04-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-4
+2018-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-52
+2018-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-53
+2018-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-4
+2018-05-01,camelbak_water_bottle,CamelBak,0.013578242310184526,6,2012-02-01,75
+2018-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-25
+2018-05-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-3
+2018-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-51
+2018-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-52
+2018-05-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-3
+2018-06-01,camelbak_water_bottle,CamelBak,0.015537166390508757,6,2012-02-01,76
+2018-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-24
+2018-06-01,hydro_flask_water_bottle,Hydro Flask,0.0,6,2018-08-01,-2
+2018-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-50
+2018-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-51
+2018-06-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,-2
+2018-07-01,camelbak_water_bottle,CamelBak,0.018895138220198754,6,2012-02-01,77
+2018-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-23
+2018-07-01,hydro_flask_water_bottle,Hydro Flask,0.0017006802721088437,6,2018-08-01,-1
+2018-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-49
+2018-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-50
+2018-07-01,yeti_water_bottle,Yeti,0.0017006802721088437,6,2018-08-01,-1
+2018-08-01,camelbak_water_bottle,CamelBak,0.01914043778074328,6,2012-02-01,78
+2018-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-22
+2018-08-01,hydro_flask_water_bottle,Hydro Flask,0.003367003367003367,6,2018-08-01,0
+2018-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-48
+2018-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-49
+2018-08-01,yeti_water_bottle,Yeti,0.010155776831555946,6,2018-08-01,0
+2018-09-01,camelbak_water_bottle,CamelBak,0.01796408870876956,6,2012-02-01,79
+2018-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-21
+2018-09-01,hydro_flask_water_bottle,Hydro Flask,0.0053191489361702135,6,2018-08-01,1
+2018-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-47
+2018-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-48
+2018-09-01,yeti_water_bottle,Yeti,0.011999043116064393,6,2018-08-01,1
+2018-10-01,camelbak_water_bottle,CamelBak,0.014159696512637689,6,2012-02-01,80
+2018-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-20
+2018-10-01,hydro_flask_water_bottle,Hydro Flask,0.00392156862745098,6,2018-08-01,2
+2018-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-46
+2018-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-47
+2018-10-01,yeti_water_bottle,Yeti,0.010901201016919437,6,2018-08-01,2
+2018-11-01,camelbak_water_bottle,CamelBak,0.013027639185871546,6,2012-02-01,81
+2018-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-19
+2018-11-01,hydro_flask_water_bottle,Hydro Flask,0.004166666666666667,6,2018-08-01,3
+2018-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-45
+2018-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-46
+2018-11-01,yeti_water_bottle,Yeti,0.0020833333333333333,6,2018-08-01,3
+2018-12-01,camelbak_water_bottle,CamelBak,0.011111111111111112,6,2012-02-01,82
+2018-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-18
+2018-12-01,hydro_flask_water_bottle,Hydro Flask,0.003968253968253968,6,2018-08-01,4
+2018-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-44
+2018-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-45
+2018-12-01,yeti_water_bottle,Yeti,0.0035131789718945683,6,2018-08-01,4
+2019-01-01,camelbak_water_bottle,CamelBak,0.013073133762788935,6,2012-02-01,83
+2019-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-17
+2019-01-01,hydro_flask_water_bottle,Hydro Flask,0.005555555555555556,6,2018-08-01,5
+2019-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-43
+2019-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-44
+2019-01-01,yeti_water_bottle,Yeti,0.0032524120759414876,6,2018-08-01,5
+2019-02-01,camelbak_water_bottle,CamelBak,0.009517657192075797,6,2012-02-01,84
+2019-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-16
+2019-02-01,hydro_flask_water_bottle,Hydro Flask,0.0037037037037037034,6,2018-08-01,6
+2019-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-42
+2019-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-43
+2019-02-01,yeti_water_bottle,Yeti,0.0032524120759414876,6,2018-08-01,6
+2019-03-01,camelbak_water_bottle,CamelBak,0.010509570750534604,6,2012-02-01,85
+2019-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-15
+2019-03-01,hydro_flask_water_bottle,Hydro Flask,0.0037037037037037034,6,2018-08-01,7
+2019-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-41
+2019-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-42
+2019-03-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,7
+2019-04-01,camelbak_water_bottle,CamelBak,0.008064516129032258,6,2012-02-01,86
+2019-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-14
+2019-04-01,hydro_flask_water_bottle,Hydro Flask,0.003286520456585866,6,2018-08-01,8
+2019-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-40
+2019-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-41
+2019-04-01,yeti_water_bottle,Yeti,0.0,6,2018-08-01,8
+2019-05-01,camelbak_water_bottle,CamelBak,0.008044733044733044,6,2012-02-01,87
+2019-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-13
+2019-05-01,hydro_flask_water_bottle,Hydro Flask,0.005876894525208784,6,2018-08-01,9
+2019-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-39
+2019-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-40
+2019-05-01,yeti_water_bottle,Yeti,0.002938447262604392,6,2018-08-01,9
+2019-06-01,camelbak_water_bottle,CamelBak,0.005143112701252236,6,2012-02-01,88
+2019-06-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-12
+2019-06-01,hydro_flask_water_bottle,Hydro Flask,0.005988882911959835,6,2018-08-01,10
+2019-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-38
+2019-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-39
+2019-06-01,yeti_water_bottle,Yeti,0.005002689618074233,6,2018-08-01,10
+2019-07-01,camelbak_water_bottle,CamelBak,0.012605429800140755,6,2012-02-01,89
+2019-07-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-11
+2019-07-01,hydro_flask_water_bottle,Hydro Flask,0.007141122176341996,6,2018-08-01,11
+2019-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-37
+2019-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-38
+2019-07-01,yeti_water_bottle,Yeti,0.007141122176341996,6,2018-08-01,11
+2019-08-01,camelbak_water_bottle,CamelBak,0.01685785439238478,6,2012-02-01,90
+2019-08-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-10
+2019-08-01,hydro_flask_water_bottle,Hydro Flask,0.007226716653512234,6,2018-08-01,12
+2019-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-36
+2019-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-37
+2019-08-01,yeti_water_bottle,Yeti,0.007226716653512234,6,2018-08-01,12
+2019-09-01,camelbak_water_bottle,CamelBak,0.019548843865331022,6,2012-02-01,91
+2019-09-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-9
+2019-09-01,hydro_flask_water_bottle,Hydro Flask,0.008066581306017926,6,2018-08-01,13
+2019-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-35
+2019-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-36
+2019-09-01,yeti_water_bottle,Yeti,0.008066581306017926,6,2018-08-01,13
+2019-10-01,camelbak_water_bottle,CamelBak,0.011373274732053358,6,2012-02-01,92
+2019-10-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-8
+2019-10-01,hydro_flask_water_bottle,Hydro Flask,0.010404095480431358,6,2018-08-01,14
+2019-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-34
+2019-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-35
+2019-10-01,yeti_water_bottle,Yeti,0.00881679389312977,6,2018-08-01,14
+2019-11-01,camelbak_water_bottle,CamelBak,0.006410256410256411,6,2012-02-01,93
+2019-11-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-7
+2019-11-01,hydro_flask_water_bottle,Hydro Flask,0.011241217798594848,6,2018-08-01,15
+2019-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-33
+2019-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-34
+2019-11-01,yeti_water_bottle,Yeti,0.009653916211293261,6,2018-08-01,15
+2019-12-01,camelbak_water_bottle,CamelBak,0.005376344086021505,6,2012-02-01,94
+2019-12-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-6
+2019-12-01,hydro_flask_water_bottle,Hydro Flask,0.010880788730840084,6,2018-08-01,16
+2019-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-32
+2019-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-33
+2019-12-01,yeti_water_bottle,Yeti,0.009431513368521242,6,2018-08-01,16
+2020-01-01,camelbak_water_bottle,CamelBak,0.0049504950495049506,6,2012-02-01,95
+2020-01-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-5
+2020-01-01,hydro_flask_water_bottle,Hydro Flask,0.008912037037037038,6,2018-08-01,17
+2020-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-31
+2020-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-32
+2020-01-01,yeti_water_bottle,Yeti,0.008912037037037038,6,2018-08-01,17
+2020-02-01,camelbak_water_bottle,CamelBak,0.00698581560283688,6,2012-02-01,96
+2020-02-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-4
+2020-02-01,hydro_flask_water_bottle,Hydro Flask,0.008751675852822882,6,2018-08-01,18
+2020-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-30
+2020-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-31
+2020-02-01,yeti_water_bottle,Yeti,0.008751675852822882,6,2018-08-01,18
+2020-03-01,camelbak_water_bottle,CamelBak,0.0065621176732287845,6,2012-02-01,97
+2020-03-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-3
+2020-03-01,hydro_flask_water_bottle,Hydro Flask,0.00637800934243622,6,2018-08-01,19
+2020-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-29
+2020-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-30
+2020-03-01,yeti_water_bottle,Yeti,0.00637800934243622,6,2018-08-01,19
+2020-04-01,camelbak_water_bottle,CamelBak,0.00551906586389345,6,2012-02-01,98
+2020-04-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-2
+2020-04-01,hydro_flask_water_bottle,Hydro Flask,0.003556454028152141,6,2018-08-01,20
+2020-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-28
+2020-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-29
+2020-04-01,yeti_water_bottle,Yeti,0.003556454028152141,6,2018-08-01,20
+2020-05-01,camelbak_water_bottle,CamelBak,0.0,6,2012-02-01,99
+2020-05-01,frank_green_water_bottle,Frank Green,0.0,6,2020-06-01,-1
+2020-05-01,hydro_flask_water_bottle,Hydro Flask,0.0015432098765432098,6,2018-08-01,21
+2020-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-27
+2020-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-28
+2020-05-01,yeti_water_bottle,Yeti,0.0035512420050572654,6,2018-08-01,21
+2020-06-01,camelbak_water_bottle,CamelBak,0.005849753694581281,6,2012-02-01,100
+2020-06-01,frank_green_water_bottle,Frank Green,0.005849753694581281,6,2020-06-01,0
+2020-06-01,hydro_flask_water_bottle,Hydro Flask,0.0028248587570621464,6,2018-08-01,22
+2020-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-26
+2020-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-27
+2020-06-01,yeti_water_bottle,Yeti,0.006570177109122072,6,2018-08-01,22
+2020-07-01,camelbak_water_bottle,CamelBak,0.009412855054302423,6,2012-02-01,101
+2020-07-01,frank_green_water_bottle,Frank Green,0.0053819444444444435,6,2020-06-01,1
+2020-07-01,hydro_flask_water_bottle,Hydro Flask,0.0037593984962406013,6,2018-08-01,23
+2020-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-25
+2020-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-26
+2020-07-01,yeti_water_bottle,Yeti,0.0087593984962406,6,2018-08-01,23
+2020-08-01,camelbak_water_bottle,CamelBak,0.01175721961534005,6,2012-02-01,102
+2020-08-01,frank_green_water_bottle,Frank Green,0.007895171957671957,6,2020-06-01,2
+2020-08-01,hydro_flask_water_bottle,Hydro Flask,0.0036496350364963507,6,2018-08-01,24
+2020-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-24
+2020-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-25
+2020-08-01,yeti_water_bottle,Yeti,0.009628084810566562,6,2018-08-01,24
+2020-09-01,camelbak_water_bottle,CamelBak,0.01115450571972311,6,2012-02-01,103
+2020-09-01,frank_green_water_bottle,Frank Green,0.0024154589371980675,6,2020-06-01,3
+2020-09-01,hydro_flask_water_bottle,Hydro Flask,0.003787878787878788,6,2018-08-01,25
+2020-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-23
+2020-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-24
+2020-09-01,yeti_water_bottle,Yeti,0.012320332919741953,6,2018-08-01,25
+2020-10-01,camelbak_water_bottle,CamelBak,0.00890896543070456,6,2012-02-01,104
+2020-10-01,frank_green_water_bottle,Frank Green,0.004329004329004329,6,2020-06-01,4
+2020-10-01,hydro_flask_water_bottle,Hydro Flask,0.004132231404958677,6,2018-08-01,26
+2020-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-22
+2020-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-23
+2020-10-01,yeti_water_bottle,Yeti,0.015273428810978215,6,2018-08-01,26
+2020-11-01,camelbak_water_bottle,CamelBak,0.011667345000678333,6,2012-02-01,105
+2020-11-01,frank_green_water_bottle,Frank Green,0.0036630036630036626,6,2020-06-01,5
+2020-11-01,hydro_flask_water_bottle,Hydro Flask,0.0045045045045045045,6,2018-08-01,27
+2020-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-21
+2020-11-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-22
+2020-11-01,yeti_water_bottle,Yeti,0.01752460788605367,6,2018-08-01,27
+2020-12-01,camelbak_water_bottle,CamelBak,0.01172722116571581,6,2012-02-01,106
+2020-12-01,frank_green_water_bottle,Frank Green,0.006472491909385113,6,2020-06-01,6
+2020-12-01,hydro_flask_water_bottle,Hydro Flask,0.004629629629629629,6,2018-08-01,28
+2020-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-20
+2020-12-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-21
+2020-12-01,yeti_water_bottle,Yeti,0.020438541292101164,6,2018-08-01,28
+2021-01-01,camelbak_water_bottle,CamelBak,0.010616494507296279,6,2012-02-01,107
+2021-01-01,frank_green_water_bottle,Frank Green,0.007309941520467837,6,2020-06-01,7
+2021-01-01,hydro_flask_water_bottle,Hydro Flask,0.0030303030303030303,6,2018-08-01,29
+2021-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-19
+2021-01-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-20
+2021-01-01,yeti_water_bottle,Yeti,0.020768052037401886,6,2018-08-01,29
+2021-02-01,camelbak_water_bottle,CamelBak,0.0109347442680776,6,2012-02-01,108
+2021-02-01,frank_green_water_bottle,Frank Green,0.007936507936507938,6,2020-06-01,8
+2021-02-01,hydro_flask_water_bottle,Hydro Flask,0.0015015015015015015,6,2018-08-01,30
+2021-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-18
+2021-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-19
+2021-02-01,yeti_water_bottle,Yeti,0.01773039273039273,6,2018-08-01,30
+2021-03-01,camelbak_water_bottle,CamelBak,0.008768115942028984,6,2012-02-01,109
+2021-03-01,frank_green_water_bottle,Frank Green,0.007246376811594203,6,2020-06-01,9
+2021-03-01,hydro_flask_water_bottle,Hydro Flask,0.0027287712732780895,6,2018-08-01,31
+2021-03-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-17
+2021-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-18
+2021-03-01,yeti_water_bottle,Yeti,0.015179910044977513,6,2018-08-01,31
+2021-04-01,camelbak_water_bottle,CamelBak,0.010156510156510156,6,2012-02-01,110
+2021-04-01,frank_green_water_bottle,Frank Green,0.006493506493506493,6,2020-06-01,10
+2021-04-01,hydro_flask_water_bottle,Hydro Flask,0.004190207156308851,6,2018-08-01,32
+2021-04-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-16
+2021-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-17
+2021-04-01,yeti_water_bottle,Yeti,0.014096599277011646,6,2018-08-01,32
+2021-05-01,camelbak_water_bottle,CamelBak,0.006666666666666667,6,2012-02-01,111
+2021-05-01,frank_green_water_bottle,Frank Green,0.006666666666666667,6,2020-06-01,11
+2021-05-01,hydro_flask_water_bottle,Hydro Flask,0.004139823431162014,6,2018-08-01,33
+2021-05-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-15
+2021-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-16
+2021-05-01,yeti_water_bottle,Yeti,0.016677915260592428,6,2018-08-01,33
+2021-06-01,camelbak_water_bottle,CamelBak,0.009440925483150819,6,2012-02-01,112
+2021-06-01,frank_green_water_bottle,Frank Green,0.006849315068493151,6,2020-06-01,12
+2021-06-01,hydro_flask_water_bottle,Hydro Flask,0.0024509803921568623,6,2018-08-01,34
+2021-06-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-14
+2021-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-15
+2021-06-01,yeti_water_bottle,Yeti,0.017522220594339857,6,2018-08-01,34
+2021-07-01,camelbak_water_bottle,CamelBak,0.011481713252676959,6,2012-02-01,113
+2021-07-01,frank_green_water_bottle,Frank Green,0.006666666666666667,6,2020-06-01,13
+2021-07-01,hydro_flask_water_bottle,Hydro Flask,0.003813341556172268,6,2018-08-01,35
+2021-07-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-13
+2021-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-14
+2021-07-01,yeti_water_bottle,Yeti,0.018106691335183472,6,2018-08-01,35
+2021-08-01,camelbak_water_bottle,CamelBak,0.012670354493479122,6,2012-02-01,114
+2021-08-01,frank_green_water_bottle,Frank Green,0.006329113924050633,6,2020-06-01,14
+2021-08-01,hydro_flask_water_bottle,Hydro Flask,0.006133482475764355,6,2018-08-01,36
+2021-08-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-12
+2021-08-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-13
+2021-08-01,yeti_water_bottle,Yeti,0.018325758219352648,6,2018-08-01,36
+2021-09-01,camelbak_water_bottle,CamelBak,0.009955607198371125,6,2012-02-01,115
+2021-09-01,frank_green_water_bottle,Frank Green,0.007751937984496123,6,2020-06-01,15
+2021-09-01,hydro_flask_water_bottle,Hydro Flask,0.006446125151161122,6,2018-08-01,37
+2021-09-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-11
+2021-09-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-12
+2021-09-01,yeti_water_bottle,Yeti,0.018480743133579003,6,2018-08-01,37
+2021-10-01,camelbak_water_bottle,CamelBak,0.010485287659200704,6,2012-02-01,116
+2021-10-01,frank_green_water_bottle,Frank Green,0.009057971014492754,6,2020-06-01,16
+2021-10-01,hydro_flask_water_bottle,Hydro Flask,0.004113031315932959,6,2018-08-01,38
+2021-10-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-10
+2021-10-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-11
+2021-10-01,yeti_water_bottle,Yeti,0.02087746042347577,6,2018-08-01,38
+2021-11-01,camelbak_water_bottle,CamelBak,0.010822510822510822,6,2012-02-01,117
+2021-11-01,frank_green_water_bottle,Frank Green,0.015728715728715727,6,2020-06-01,17
+2021-11-01,hydro_flask_water_bottle,Hydro Flask,0.002754820936639118,6,2018-08-01,39
+2021-11-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-9
+2021-11-01,stanley_water_bottle,Stanley,0.0014749262536873156,6,2022-09-01,-10
+2021-11-01,yeti_water_bottle,Yeti,0.022550177095631643,6,2018-08-01,39
+2021-12-01,camelbak_water_bottle,CamelBak,0.0118939883645766,6,2012-02-01,118
+2021-12-01,frank_green_water_bottle,Frank Green,0.02041585865115277,6,2020-06-01,18
+2021-12-01,hydro_flask_water_bottle,Hydro Flask,0.0027100271002710023,6,2018-08-01,40
+2021-12-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-8
+2021-12-01,stanley_water_bottle,Stanley,0.0012531328320802004,6,2022-09-01,-9
+2021-12-01,yeti_water_bottle,Yeti,0.025364752947249363,6,2018-08-01,40
+2022-01-01,camelbak_water_bottle,CamelBak,0.01109490913102231,6,2012-02-01,119
+2022-01-01,frank_green_water_bottle,Frank Green,0.027534748076445764,6,2020-06-01,19
+2022-01-01,hydro_flask_water_bottle,Hydro Flask,0.004673807205452775,6,2018-08-01,41
+2022-01-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-7
+2022-01-01,stanley_water_bottle,Stanley,0.0010964912280701754,6,2022-09-01,-8
+2022-01-01,yeti_water_bottle,Yeti,0.02993096468236328,6,2018-08-01,41
+2022-02-01,camelbak_water_bottle,CamelBak,0.012078198343108438,6,2012-02-01,120
+2022-02-01,frank_green_water_bottle,Frank Green,0.04019049314580737,6,2020-06-01,20
+2022-02-01,hydro_flask_water_bottle,Hydro Flask,0.0033448562832085016,6,2018-08-01,42
+2022-02-01,owala_water_bottle,Owala,0.0,6,2022-08-01,-6
+2022-02-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-7
+2022-02-01,yeti_water_bottle,Yeti,0.0330431055417966,6,2018-08-01,42
+2022-03-01,camelbak_water_bottle,CamelBak,0.013109783593777494,6,2012-02-01,121
+2022-03-01,frank_green_water_bottle,Frank Green,0.05137310606060606,6,2020-06-01,21
+2022-03-01,hydro_flask_water_bottle,Hydro Flask,0.004329004329004329,6,2018-08-01,43
+2022-03-01,owala_water_bottle,Owala,0.0014749262536873156,6,2022-08-01,-5
+2022-03-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-6
+2022-03-01,yeti_water_bottle,Yeti,0.03528020805399124,6,2018-08-01,43
+2022-04-01,camelbak_water_bottle,CamelBak,0.01250285005882166,6,2012-02-01,122
+2022-04-01,frank_green_water_bottle,Frank Green,0.0600892304297256,6,2020-06-01,22
+2022-04-01,hydro_flask_water_bottle,Hydro Flask,0.0037660124250920887,6,2018-08-01,44
+2022-04-01,owala_water_bottle,Owala,0.0014005602240896359,6,2022-08-01,-4
+2022-04-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-5
+2022-04-01,yeti_water_bottle,Yeti,0.034087972931959074,6,2018-08-01,44
+2022-05-01,camelbak_water_bottle,CamelBak,0.012885765420452852,6,2012-02-01,123
+2022-05-01,frank_green_water_bottle,Frank Green,0.053714972610433585,6,2020-06-01,23
+2022-05-01,hydro_flask_water_bottle,Hydro Flask,0.004851256995339327,6,2018-08-01,45
+2022-05-01,owala_water_bottle,Owala,0.0013123359580052493,6,2022-08-01,-3
+2022-05-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-4
+2022-05-01,yeti_water_bottle,Yeti,0.03169209899204693,6,2018-08-01,45
+2022-06-01,camelbak_water_bottle,CamelBak,0.011273327062800745,6,2012-02-01,124
+2022-06-01,frank_green_water_bottle,Frank Green,0.046862211862211865,6,2020-06-01,24
+2022-06-01,hydro_flask_water_bottle,Hydro Flask,0.0029239766081871343,6,2018-08-01,46
+2022-06-01,owala_water_bottle,Owala,0.0012254901960784311,6,2022-08-01,-2
+2022-06-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-3
+2022-06-01,yeti_water_bottle,Yeti,0.03205609320160404,6,2018-08-01,46
+2022-07-01,camelbak_water_bottle,CamelBak,0.014061487667406683,6,2012-02-01,125
+2022-07-01,frank_green_water_bottle,Frank Green,0.044875943905070124,6,2020-06-01,25
+2022-07-01,hydro_flask_water_bottle,Hydro Flask,0.00384557945041816,6,2018-08-01,47
+2022-07-01,owala_water_bottle,Owala,0.0023148148148148147,6,2022-08-01,-1
+2022-07-01,stanley_water_bottle,Stanley,0.0,6,2022-09-01,-2
+2022-07-01,yeti_water_bottle,Yeti,0.03501324884232808,6,2018-08-01,47
+2022-08-01,camelbak_water_bottle,CamelBak,0.012833213585246106,6,2012-02-01,126
+2022-08-01,frank_green_water_bottle,Frank Green,0.04691276642496154,6,2020-06-01,26
+2022-08-01,hydro_flask_water_bottle,Hydro Flask,0.004722222222222222,6,2018-08-01,48
+2022-08-01,owala_water_bottle,Owala,0.0033333333333333335,6,2022-08-01,0
+2022-08-01,stanley_water_bottle,Stanley,0.0019444444444444442,6,2022-09-01,-1
+2022-08-01,yeti_water_bottle,Yeti,0.04143610836446202,6,2018-08-01,48
+2022-09-01,camelbak_water_bottle,CamelBak,0.012851871662689392,6,2012-02-01,127
+2022-09-01,frank_green_water_bottle,Frank Green,0.0488513453115223,6,2020-06-01,27
+2022-09-01,hydro_flask_water_bottle,Hydro Flask,0.004770667211885776,6,2018-08-01,49
+2022-09-01,owala_water_bottle,Owala,0.0034246575342465756,6,2022-08-01,1
+2022-09-01,stanley_water_bottle,Stanley,0.003941479815534201,6,2022-09-01,0
+2022-09-01,yeti_water_bottle,Yeti,0.04079742267315433,6,2018-08-01,49
+2022-10-01,camelbak_water_bottle,CamelBak,0.008449809771388513,6,2012-02-01,128
+2022-10-01,frank_green_water_bottle,Frank Green,0.05178907721280603,6,2020-06-01,28
+2022-10-01,hydro_flask_water_bottle,Hydro Flask,0.006376631336073257,6,2018-08-01,50
+2022-10-01,owala_water_bottle,Owala,0.00373134328358209,6,2022-08-01,2
+2022-10-01,stanley_water_bottle,Stanley,0.005204953493402552,6,2022-09-01,1
+2022-10-01,yeti_water_bottle,Yeti,0.04065971279851217,6,2018-08-01,50
+2022-11-01,camelbak_water_bottle,CamelBak,0.006864988558352402,6,2012-02-01,129
+2022-11-01,frank_green_water_bottle,Frank Green,0.058381791104903234,6,2020-06-01,29
+2022-11-01,hydro_flask_water_bottle,Hydro Flask,0.008454380181274708,6,2018-08-01,51
+2022-11-01,owala_water_bottle,Owala,0.0040650406504065045,6,2022-08-01,3
+2022-11-01,stanley_water_bottle,Stanley,0.006684867144529433,6,2022-09-01,2
+2022-11-01,yeti_water_bottle,Yeti,0.042240623761826225,6,2018-08-01,51
+2022-12-01,camelbak_water_bottle,CamelBak,0.008333853548910669,6,2012-02-01,130
+2022-12-01,frank_green_water_bottle,Frank Green,0.06443725846493249,6,2020-06-01,30
+2022-12-01,hydro_flask_water_bottle,Hydro Flask,0.009100983358173602,6,2018-08-01,52
+2022-12-01,owala_water_bottle,Owala,0.004032258064516129,6,2022-08-01,4
+2022-12-01,stanley_water_bottle,Stanley,0.008283110235054809,6,2022-09-01,3
+2022-12-01,yeti_water_bottle,Yeti,0.05063789104179958,6,2018-08-01,52
+2023-01-01,camelbak_water_bottle,CamelBak,0.010986875200073168,6,2012-02-01,131
+2023-01-01,frank_green_water_bottle,Frank Green,0.0640500906998369,6,2020-06-01,31
+2023-01-01,hydro_flask_water_bottle,Hydro Flask,0.0067487334662907185,6,2018-08-01,53
+2023-01-01,owala_water_bottle,Owala,0.006890860325974829,6,2022-08-01,5
+2023-01-01,stanley_water_bottle,Stanley,0.012127933884196357,6,2022-09-01,4
+2023-01-01,yeti_water_bottle,Yeti,0.05595660371496385,6,2018-08-01,53
+2023-02-01,camelbak_water_bottle,CamelBak,0.01194981213097155,6,2012-02-01,132
+2023-02-01,frank_green_water_bottle,Frank Green,0.06157944176060117,6,2020-06-01,32
+2023-02-01,hydro_flask_water_bottle,Hydro Flask,0.003948785449323921,6,2018-08-01,54
+2023-02-01,owala_water_bottle,Owala,0.008814965497985721,6,2022-08-01,6
+2023-02-01,stanley_water_bottle,Stanley,0.014713412734273816,6,2022-09-01,5
+2023-02-01,yeti_water_bottle,Yeti,0.05689006185396437,6,2018-08-01,54
+2023-03-01,camelbak_water_bottle,CamelBak,0.01058715379626378,6,2012-02-01,133
+2023-03-01,frank_green_water_bottle,Frank Green,0.06904392038993719,6,2020-06-01,33
+2023-03-01,hydro_flask_water_bottle,Hydro Flask,0.0035932764359160297,6,2018-08-01,55
+2023-03-01,owala_water_bottle,Owala,0.010909380474597866,6,2022-08-01,7
+2023-03-01,stanley_water_bottle,Stanley,0.01541520531098734,6,2022-09-01,6
+2023-03-01,yeti_water_bottle,Yeti,0.055747514600861796,6,2018-08-01,55
+2023-04-01,camelbak_water_bottle,CamelBak,0.009176575955436929,6,2012-02-01,134
+2023-04-01,frank_green_water_bottle,Frank Green,0.07333331641620246,6,2020-06-01,34
+2023-04-01,hydro_flask_water_bottle,Hydro Flask,0.0038318017265385686,6,2018-08-01,56
+2023-04-01,owala_water_bottle,Owala,0.009949341438703142,6,2022-08-01,8
+2023-04-01,stanley_water_bottle,Stanley,0.015369074989049167,6,2022-09-01,7
+2023-04-01,yeti_water_bottle,Yeti,0.05338587920766364,6,2018-08-01,56
+2023-05-01,camelbak_water_bottle,CamelBak,0.006590953652172602,6,2012-02-01,135
+2023-05-01,frank_green_water_bottle,Frank Green,0.07667362856120659,6,2020-06-01,35
+2023-05-01,hydro_flask_water_bottle,Hydro Flask,0.0037509207320528073,6,2018-08-01,57
+2023-05-01,owala_water_bottle,Owala,0.009647147147147147,6,2022-08-01,9
+2023-05-01,stanley_water_bottle,Stanley,0.014680375366543411,6,2022-09-01,8
+2023-05-01,yeti_water_bottle,Yeti,0.051736884332411685,6,2018-08-01,57
+2023-06-01,camelbak_water_bottle,CamelBak,0.009417809167705304,6,2012-02-01,136
+2023-06-01,frank_green_water_bottle,Frank Green,0.06483299394966785,6,2020-06-01,36
+2023-06-01,hydro_flask_water_bottle,Hydro Flask,0.0026041666666666665,6,2018-08-01,58
+2023-06-01,owala_water_bottle,Owala,0.00940688775510204,6,2022-08-01,10
+2023-06-01,stanley_water_bottle,Stanley,0.015827883430603217,6,2022-09-01,9
+2023-06-01,yeti_water_bottle,Yeti,0.05151258299677716,6,2018-08-01,58
+2023-07-01,camelbak_water_bottle,CamelBak,0.007919201348813,6,2012-02-01,137
+2023-07-01,frank_green_water_bottle,Frank Green,0.05907094453316488,6,2020-06-01,37
+2023-07-01,hydro_flask_water_bottle,Hydro Flask,0.0035094355482704997,6,2018-08-01,59
+2023-07-01,owala_water_bottle,Owala,0.00972975244819905,6,2022-08-01,11
+2023-07-01,stanley_water_bottle,Stanley,0.015077187176596209,6,2022-09-01,10
+2023-07-01,yeti_water_bottle,Yeti,0.052644914451900525,6,2018-08-01,59
+2023-08-01,camelbak_water_bottle,CamelBak,0.00877457501762252,6,2012-02-01,138
+2023-08-01,frank_green_water_bottle,Frank Green,0.055451327501403976,6,2020-06-01,38
+2023-08-01,hydro_flask_water_bottle,Hydro Flask,0.006808395831963053,6,2018-08-01,60
+2023-08-01,owala_water_bottle,Owala,0.014543738611593249,6,2022-08-01,12
+2023-08-01,stanley_water_bottle,Stanley,0.01751779261945495,6,2022-09-01,11
+2023-08-01,yeti_water_bottle,Yeti,0.056966263254788874,6,2018-08-01,60
+2023-09-01,camelbak_water_bottle,CamelBak,0.00536000376967298,6,2012-02-01,139
+2023-09-01,frank_green_water_bottle,Frank Green,0.05139944367024931,6,2020-06-01,39
+2023-09-01,hydro_flask_water_bottle,Hydro Flask,0.006699858815653113,6,2018-08-01,61
+2023-09-01,owala_water_bottle,Owala,0.01703334798997326,6,2022-08-01,13
+2023-09-01,stanley_water_bottle,Stanley,0.022015529245136296,6,2022-09-01,12
+2023-09-01,yeti_water_bottle,Yeti,0.06357991948289216,6,2018-08-01,61
+2023-10-01,camelbak_water_bottle,CamelBak,0.004330188249236519,6,2012-02-01,140
+2023-10-01,frank_green_water_bottle,Frank Green,0.048898291621573164,6,2020-06-01,40
+2023-10-01,hydro_flask_water_bottle,Hydro Flask,0.005012853535500023,6,2018-08-01,62
+2023-10-01,owala_water_bottle,Owala,0.019949515191809264,6,2022-08-01,14
+2023-10-01,stanley_water_bottle,Stanley,0.025898363766373455,6,2022-09-01,13
+2023-10-01,yeti_water_bottle,Yeti,0.06940554027906995,6,2018-08-01,62
+2023-11-01,camelbak_water_bottle,CamelBak,0.004705065049892636,6,2012-02-01,141
+2023-11-01,frank_green_water_bottle,Frank Green,0.04977608598298253,6,2020-06-01,41
+2023-11-01,hydro_flask_water_bottle,Hydro Flask,0.001564945226917058,6,2018-08-01,63
+2023-11-01,owala_water_bottle,Owala,0.025241496638930865,6,2022-08-01,15
+2023-11-01,stanley_water_bottle,Stanley,0.030498034025570827,6,2022-09-01,14
+2023-11-01,yeti_water_bottle,Yeti,0.07682621763564595,6,2018-08-01,63
+2023-12-01,camelbak_water_bottle,CamelBak,0.005296392282693653,6,2012-02-01,142
+2023-12-01,frank_green_water_bottle,Frank Green,0.05552646680298029,6,2020-06-01,42
+2023-12-01,hydro_flask_water_bottle,Hydro Flask,0.0022294637888144613,6,2018-08-01,64
+2023-12-01,owala_water_bottle,Owala,0.030525511742321227,6,2022-08-01,16
+2023-12-01,stanley_water_bottle,Stanley,0.0343964637685596,6,2022-09-01,15
+2023-12-01,yeti_water_bottle,Yeti,0.0806411657995921,6,2018-08-01,64
+2024-01-01,camelbak_water_bottle,CamelBak,0.006083333333333334,6,2012-02-01,143
+2024-01-01,frank_green_water_bottle,Frank Green,0.05693694751089117,6,2020-06-01,43
+2024-01-01,hydro_flask_water_bottle,Hydro Flask,0.0026586985391766267,6,2018-08-01,65
+2024-01-01,owala_water_bottle,Owala,0.040488106444413294,6,2022-08-01,17
+2024-01-01,stanley_water_bottle,Stanley,0.039830336312408024,6,2022-09-01,16
+2024-01-01,yeti_water_bottle,Yeti,0.08402049913362569,6,2018-08-01,65
+2024-02-01,camelbak_water_bottle,CamelBak,0.006535947712418301,6,2012-02-01,144
+2024-02-01,frank_green_water_bottle,Frank Green,0.05470007246948307,6,2020-06-01,44
+2024-02-01,hydro_flask_water_bottle,Hydro Flask,0.002761431040119565,6,2018-08-01,66
+2024-02-01,owala_water_bottle,Owala,0.046001881787651515,6,2022-08-01,18
+2024-02-01,stanley_water_bottle,Stanley,0.03962947581839894,6,2022-09-01,17
+2024-02-01,yeti_water_bottle,Yeti,0.08281827587057984,6,2018-08-01,66
+2024-03-01,camelbak_water_bottle,CamelBak,0.00620722660923666,6,2012-02-01,145
+2024-03-01,frank_green_water_bottle,Frank Green,0.048349244855916136,6,2020-06-01,45
+2024-03-01,hydro_flask_water_bottle,Hydro Flask,0.0021645021645021645,6,2018-08-01,67
+2024-03-01,owala_water_bottle,Owala,0.04920203193232508,6,2022-08-01,19
+2024-03-01,stanley_water_bottle,Stanley,0.035628171034889786,6,2022-09-01,18
+2024-03-01,yeti_water_bottle,Yeti,0.07802883674219363,6,2018-08-01,67
+2024-04-01,camelbak_water_bottle,CamelBak,0.00644228783811687,6,2012-02-01,146
+2024-04-01,frank_green_water_bottle,Frank Green,0.044785791393619295,6,2020-06-01,46
+2024-04-01,hydro_flask_water_bottle,Hydro Flask,0.00228310502283105,6,2018-08-01,68
+2024-04-01,owala_water_bottle,Owala,0.05057499436384814,6,2022-08-01,20
+2024-04-01,stanley_water_bottle,Stanley,0.028280337888733492,6,2022-09-01,19
+2024-04-01,yeti_water_bottle,Yeti,0.0715771539759985,6,2018-08-01,68
+2024-05-01,camelbak_water_bottle,CamelBak,0.004813594365833172,6,2012-02-01,147
+2024-05-01,frank_green_water_bottle,Frank Green,0.043667094168014224,6,2020-06-01,47
+2024-05-01,hydro_flask_water_bottle,Hydro Flask,0.002242152466367713,6,2018-08-01,69
+2024-05-01,owala_water_bottle,Owala,0.0484227947285514,6,2022-08-01,21
+2024-05-01,stanley_water_bottle,Stanley,0.023755765158904863,6,2022-09-01,20
+2024-05-01,yeti_water_bottle,Yeti,0.06647815360040064,6,2018-08-01,69
+2024-06-01,camelbak_water_bottle,CamelBak,0.005026332492752131,6,2012-02-01,148
+2024-06-01,frank_green_water_bottle,Frank Green,0.04111821754445901,6,2020-06-01,48
+2024-06-01,hydro_flask_water_bottle,Hydro Flask,0.0021645021645021645,6,2018-08-01,70
+2024-06-01,owala_water_bottle,Owala,0.05187336234774901,6,2022-08-01,22
+2024-06-01,stanley_water_bottle,Stanley,0.023630653871733576,6,2022-09-01,21
+2024-06-01,yeti_water_bottle,Yeti,0.0629432656315798,6,2018-08-01,70
+2024-07-01,camelbak_water_bottle,CamelBak,0.00459495523415978,6,2012-02-01,149
+2024-07-01,frank_green_water_bottle,Frank Green,0.040076110746034226,6,2020-06-01,49
+2024-07-01,hydro_flask_water_bottle,Hydro Flask,0.0020661157024793385,6,2018-08-01,71
+2024-07-01,owala_water_bottle,Owala,0.05611042012538476,6,2022-08-01,23
+2024-07-01,stanley_water_bottle,Stanley,0.02516261578106509,6,2022-09-01,22
+2024-07-01,yeti_water_bottle,Yeti,0.062307871290263515,6,2018-08-01,71
+2024-08-01,camelbak_water_bottle,CamelBak,0.00604541476581844,6,2012-02-01,150
+2024-08-01,frank_green_water_bottle,Frank Green,0.038240846991582804,6,2020-06-01,50
+2024-08-01,hydro_flask_water_bottle,Hydro Flask,0.0019305019305019308,6,2018-08-01,72
+2024-08-01,owala_water_bottle,Owala,0.07097577115387964,6,2022-08-01,24
+2024-08-01,stanley_water_bottle,Stanley,0.02689097476653989,6,2022-09-01,23
+2024-08-01,yeti_water_bottle,Yeti,0.06315574951866926,6,2018-08-01,72
+2024-09-01,camelbak_water_bottle,CamelBak,0.005790475351024629,6,2012-02-01,151
+2024-09-01,frank_green_water_bottle,Frank Green,0.0348292864069443,6,2020-06-01,51
+2024-09-01,hydro_flask_water_bottle,Hydro Flask,0.0019011406844106462,6,2018-08-01,73
+2024-09-01,owala_water_bottle,Owala,0.0768224600614834,6,2022-08-01,25
+2024-09-01,stanley_water_bottle,Stanley,0.026755951792699375,6,2022-09-01,24
+2024-09-01,yeti_water_bottle,Yeti,0.06832571440563252,6,2018-08-01,73
+2024-10-01,camelbak_water_bottle,CamelBak,0.007156405256306936,6,2012-02-01,152
+2024-10-01,frank_green_water_bottle,Frank Green,0.03359074488541863,6,2020-06-01,52
+2024-10-01,hydro_flask_water_bottle,Hydro Flask,0.0020325203252032522,6,2018-08-01,74
+2024-10-01,owala_water_bottle,Owala,0.07914845295520742,6,2022-08-01,26
+2024-10-01,stanley_water_bottle,Stanley,0.02718774184316675,6,2022-09-01,25
+2024-10-01,yeti_water_bottle,Yeti,0.07215512002454598,6,2018-08-01,74
+2024-11-01,camelbak_water_bottle,CamelBak,0.00627120286905108,6,2012-02-01,153
+2024-11-01,frank_green_water_bottle,Frank Green,0.036676761868041245,6,2020-06-01,53
+2024-11-01,hydro_flask_water_bottle,Hydro Flask,0.002155172413793104,6,2018-08-01,75
+2024-11-01,owala_water_bottle,Owala,0.078218747711923,6,2022-08-01,27
+2024-11-01,stanley_water_bottle,Stanley,0.029603028131904657,6,2022-09-01,26
+2024-11-01,yeti_water_bottle,Yeti,0.07903338839983698,6,2018-08-01,75
+2024-12-01,camelbak_water_bottle,CamelBak,0.0063208525551621784,6,2012-02-01,154
+2024-12-01,frank_green_water_bottle,Frank Green,0.03837000562565618,6,2020-06-01,54
+2024-12-01,hydro_flask_water_bottle,Hydro Flask,0.002074688796680498,6,2018-08-01,76
+2024-12-01,owala_water_bottle,Owala,0.08652896019338102,6,2022-08-01,28
+2024-12-01,stanley_water_bottle,Stanley,0.0329758135357077,6,2022-09-01,27
+2024-12-01,yeti_water_bottle,Yeti,0.09116068804374944,6,2018-08-01,76
+2025-01-01,camelbak_water_bottle,CamelBak,0.005821788174729351,6,2012-02-01,155
+2025-01-01,frank_green_water_bottle,Frank Green,0.038631182489817444,6,2020-06-01,55
+2025-01-01,hydro_flask_water_bottle,Hydro Flask,0.002631087308506663,6,2018-08-01,77
+2025-01-01,owala_water_bottle,Owala,0.08753047352948111,6,2022-08-01,29
+2025-01-01,stanley_water_bottle,Stanley,0.03391715062484159,6,2022-09-01,28
+2025-01-01,yeti_water_bottle,Yeti,0.09254030676701618,6,2018-08-01,77
+2025-02-01,camelbak_water_bottle,CamelBak,0.006270398751241663,6,2012-02-01,156
+2025-02-01,frank_green_water_bottle,Frank Green,0.03581677782507923,6,2020-06-01,56
+2025-02-01,hydro_flask_water_bottle,Hydro Flask,0.002772302336572489,6,2018-08-01,78
+2025-02-01,owala_water_bottle,Owala,0.08135125286490719,6,2022-08-01,30
+2025-02-01,stanley_water_bottle,Stanley,0.03330796398062542,6,2022-09-01,29
+2025-02-01,yeti_water_bottle,Yeti,0.09213255072940167,6,2018-08-01,78
+2025-03-01,camelbak_water_bottle,CamelBak,0.0077223771253622,6,2012-02-01,157
+2025-03-01,frank_green_water_bottle,Frank Green,0.03361365594841075,6,2020-06-01,57
+2025-03-01,hydro_flask_water_bottle,Hydro Flask,0.0031666704186458353,6,2018-08-01,79
+2025-03-01,owala_water_bottle,Owala,0.07056300534998378,6,2022-08-01,31
+2025-03-01,stanley_water_bottle,Stanley,0.032274477559469016,6,2022-09-01,30
+2025-03-01,yeti_water_bottle,Yeti,0.0832772590777403,6,2018-08-01,79
+2025-04-01,camelbak_water_bottle,CamelBak,0.007892076536144333,6,2012-02-01,158
+2025-04-01,frank_green_water_bottle,Frank Green,0.03338877067690627,6,2020-06-01,58
+2025-04-01,hydro_flask_water_bottle,Hydro Flask,0.0015432098765432098,6,2018-08-01,80
+2025-04-01,owala_water_bottle,Owala,0.07061802157956004,6,2022-08-01,32
+2025-04-01,stanley_water_bottle,Stanley,0.030246623035084574,6,2022-09-01,31
+2025-04-01,yeti_water_bottle,Yeti,0.08213156477498067,6,2018-08-01,80
+2025-05-01,camelbak_water_bottle,CamelBak,0.007522422243296692,6,2012-02-01,159
+2025-05-01,frank_green_water_bottle,Frank Green,0.03195639701663799,6,2020-06-01,59
+2025-05-01,hydro_flask_water_bottle,Hydro Flask,0.0014947683109118087,6,2018-08-01,81
+2025-05-01,owala_water_bottle,Owala,0.07361563792483176,6,2022-08-01,33
+2025-05-01,stanley_water_bottle,Stanley,0.0301252803474665,6,2022-09-01,32
+2025-05-01,yeti_water_bottle,Yeti,0.0785781274176488,6,2018-08-01,81
+2025-06-01,camelbak_water_bottle,CamelBak,0.006113663531450794,6,2012-02-01,160
+2025-06-01,frank_green_water_bottle,Frank Green,0.03125546751277745,6,2020-06-01,60
+2025-06-01,hydro_flask_water_bottle,Hydro Flask,0.0014492753623188404,6,2018-08-01,82
+2025-06-01,owala_water_bottle,Owala,0.07212730133656318,6,2022-08-01,34
+2025-06-01,stanley_water_bottle,Stanley,0.027878932204481944,6,2022-09-01,33
+2025-06-01,yeti_water_bottle,Yeti,0.07454943913075482,6,2018-08-01,82
+2025-07-01,camelbak_water_bottle,CamelBak,0.00556686616954474,6,2012-02-01,161
+2025-07-01,frank_green_water_bottle,Frank Green,0.02784215784215784,6,2020-06-01,61
+2025-07-01,hydro_flask_water_bottle,Hydro Flask,0.001953125,6,2018-08-01,83
+2025-07-01,owala_water_bottle,Owala,0.07554818607774273,6,2022-08-01,35
+2025-07-01,stanley_water_bottle,Stanley,0.027286724248315995,6,2022-09-01,34
+2025-07-01,yeti_water_bottle,Yeti,0.07388904250511394,6,2018-08-01,83
+2025-08-01,camelbak_water_bottle,CamelBak,0.005090990337252116,6,2012-02-01,162
+2025-08-01,frank_green_water_bottle,Frank Green,0.028720724224353983,6,2020-06-01,62
+2025-08-01,hydro_flask_water_bottle,Hydro Flask,0.0017985611510791366,6,2018-08-01,84
+2025-08-01,owala_water_bottle,Owala,0.08325840370634353,6,2022-08-01,36
+2025-08-01,stanley_water_bottle,Stanley,0.02452297808622686,6,2022-09-01,35
+2025-08-01,yeti_water_bottle,Yeti,0.07694912174009251,6,2018-08-01,84
+2025-09-01,camelbak_water_bottle,CamelBak,0.0058193445243804945,6,2012-02-01,163
+2025-09-01,frank_green_water_bottle,Frank Green,0.02835107614842705,6,2020-06-01,63
+2025-09-01,hydro_flask_water_bottle,Hydro Flask,0.0017985611510791366,6,2018-08-01,85
+2025-09-01,owala_water_bottle,Owala,0.09620350371543634,6,2022-08-01,37
+2025-09-01,stanley_water_bottle,Stanley,0.026321044204688365,6,2022-09-01,36
+2025-09-01,yeti_water_bottle,Yeti,0.07750406260274018,6,2018-08-01,85
+2025-10-01,camelbak_water_bottle,CamelBak,0.007099352625562823,6,2012-02-01,164
+2025-10-01,frank_green_water_bottle,Frank Green,0.02819423068805746,6,2020-06-01,64
+2025-10-01,hydro_flask_water_bottle,Hydro Flask,0.0013386880856760374,6,2018-08-01,86
+2025-10-01,owala_water_bottle,Owala,0.09795836246840427,6,2022-08-01,38
+2025-10-01,stanley_water_bottle,Stanley,0.026837669899627214,6,2022-09-01,37
+2025-10-01,yeti_water_bottle,Yeti,0.07743778624241118,6,2018-08-01,86
+2025-11-01,camelbak_water_bottle,CamelBak,0.00787819069069069,6,2012-02-01,165
+2025-11-01,frank_green_water_bottle,Frank Green,0.0251628861003861,6,2020-06-01,65
+2025-11-01,hydro_flask_water_bottle,Hydro Flask,0.002369359008865725,6,2018-08-01,87
+2025-11-01,owala_water_bottle,Owala,0.11054288918229956,6,2022-08-01,39
+2025-11-01,stanley_water_bottle,Stanley,0.03160312380782817,6,2022-09-01,38
+2025-11-01,yeti_water_bottle,Yeti,0.08464300285175368,6,2018-08-01,87
+2025-12-01,camelbak_water_bottle,CamelBak,0.007096557206628755,6,2012-02-01,166
+2025-12-01,frank_green_water_bottle,Frank Green,0.027590583820847264,6,2020-06-01,66
+2025-12-01,hydro_flask_water_bottle,Hydro Flask,0.002926175338684646,6,2018-08-01,88
+2025-12-01,owala_water_bottle,Owala,0.12087044283526127,6,2022-08-01,40
+2025-12-01,stanley_water_bottle,Stanley,0.034763876112962035,6,2022-09-01,39
+2025-12-01,yeti_water_bottle,Yeti,0.09567390165945515,6,2018-08-01,88
+2026-01-01,camelbak_water_bottle,CamelBak,0.006539559014267185,6,2012-02-01,167
+2026-01-01,frank_green_water_bottle,Frank Green,0.02543704714019103,6,2020-06-01,67
+2026-01-01,hydro_flask_water_bottle,Hydro Flask,0.002788346872807212,6,2018-08-01,89
+2026-01-01,owala_water_bottle,Owala,0.12246086682237318,6,2022-08-01,41
+2026-01-01,stanley_water_bottle,Stanley,0.03623391294303102,6,2022-09-01,40
+2026-01-01,yeti_water_bottle,Yeti,0.09782451658546866,6,2018-08-01,89
+2026-02-01,camelbak_water_bottle,CamelBak,0.00566452910851251,6,2012-02-01,168
+2026-02-01,frank_green_water_bottle,Frank Green,0.025725582972365074,6,2020-06-01,68
+2026-02-01,hydro_flask_water_bottle,Hydro Flask,0.0019307203052132016,6,2018-08-01,90
+2026-02-01,owala_water_bottle,Owala,0.1072009684451627,6,2022-08-01,42
+2026-02-01,stanley_water_bottle,Stanley,0.03205304215784941,6,2022-09-01,41
+2026-02-01,yeti_water_bottle,Yeti,0.09159644831234137,6,2018-08-01,90
+2026-03-01,camelbak_water_bottle,CamelBak,0.005270191515443821,6,2012-02-01,169
+2026-03-01,frank_green_water_bottle,Frank Green,0.0209149735736822,6,2020-06-01,69
+2026-03-01,hydro_flask_water_bottle,Hydro Flask,0.002178108629721533,6,2018-08-01,91
+2026-03-01,owala_water_bottle,Owala,0.09360437394575567,6,2022-08-01,43
+2026-03-01,stanley_water_bottle,Stanley,0.02869222215547806,6,2022-09-01,42
+2026-03-01,yeti_water_bottle,Yeti,0.07930365931396637,6,2018-08-01,91
+2026-04-01,camelbak_water_bottle,CamelBak,0.0046462063086104,6,2012-02-01,170
+2026-04-01,frank_green_water_bottle,Frank Green,0.02071325174365048,6,2020-06-01,70
+2026-04-01,hydro_flask_water_bottle,Hydro Flask,0.003321934538348803,6,2018-08-01,92
+2026-04-01,owala_water_bottle,Owala,0.08897108447846835,6,2022-08-01,44
+2026-04-01,stanley_water_bottle,Stanley,0.028126735284198633,6,2022-09-01,43
+2026-04-01,yeti_water_bottle,Yeti,0.07603636892002184,6,2018-08-01,92
+2026-05-01,camelbak_water_bottle,CamelBak,0.0039538816093160935,6,2012-02-01,171
+2026-05-01,frank_green_water_bottle,Frank Green,0.01747668566621706,6,2020-06-01,71
+2026-05-01,hydro_flask_water_bottle,Hydro Flask,0.0037961735722929755,6,2018-08-01,93
+2026-05-01,owala_water_bottle,Owala,0.08655810475272968,6,2022-08-01,45
+2026-05-01,stanley_water_bottle,Stanley,0.029060222791414247,6,2022-09-01,44
+2026-05-01,yeti_water_bottle,Yeti,0.07449916990368581,6,2018-08-01,93
+2026-06-01,camelbak_water_bottle,CamelBak,0.007030140708462567,6,2012-02-01,172
+2026-06-01,frank_green_water_bottle,Frank Green,0.01615581098339719,6,2020-06-01,72
+2026-06-01,hydro_flask_water_bottle,Hydro Flask,0.0036429993364299937,6,2018-08-01,94
+2026-06-01,owala_water_bottle,Owala,0.08284860284179152,6,2022-08-01,46
+2026-06-01,stanley_water_bottle,Stanley,0.02713107373215548,6,2022-09-01,45
+2026-06-01,yeti_water_bottle,Yeti,0.07567875511392401,6,2018-08-01,94
