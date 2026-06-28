@@ -309,9 +309,10 @@ function renderCumulativeChart(cumulativeRows, starts) {
   svg.appendChild(textNode("Months since brand takeoff", width / 2, height - 12, "axis-title", "middle"));
 
   const startByBrand = new Map(starts.map((row) => [row.trend_label, row.start_date]));
-  const xTicks = Array.from({ length: 8 }, (_, index) => (
-    Math.round(minMonth + ((maxMonth - minMonth) * index) / 7)
-  ));
+  const xTicks = [];
+  for (let tick = Math.ceil(minMonth / 24) * 24; tick <= maxMonth; tick += 24) {
+    xTicks.push(tick);
+  };
   const yTicks = [0];
   for (let tick = 0.5; tick <= yMax + 0.001; tick += 0.5) yTicks.push(tick);
 
