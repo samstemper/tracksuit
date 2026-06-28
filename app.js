@@ -303,7 +303,7 @@ function renderCumulativeChart(cumulativeRows, starts) {
   const yScale = makeScale([yMin, yMax], [facetHeight, 0]);
   const svg = makeSvg(width, height);
   makeArrowDef(svg);
-  const axisTitle = textNode("Cumulative relative search interest", 18, margin.top + (height - margin.top - margin.bottom) / 2, "axis-title", "middle");
+  const axisTitle = textNode("Change in cumulative relative search interest (Month 0 = 0)", 18, margin.top + (height - margin.top - margin.bottom) / 2, "axis-title", "middle");
   axisTitle.setAttribute("transform", `rotate(-90 18 ${margin.top + (height - margin.top - margin.bottom) / 2})`);
   svg.appendChild(axisTitle);
   svg.appendChild(textNode("Months since brand takeoff", width / 2, height - 12, "axis-title", "middle"));
