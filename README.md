@@ -27,7 +27,7 @@ The static site is built from the processed CSVs and can be served directly from
 python3 -m http.server 8001
 ```
 
-Then open `http://localhost:8001`. The included `CNAME` points GitHub Pages at `tracksuit.samstemper.com` once DNS is configured.
+Then open `http://localhost:8001`. The included `CNAME` points GitHub Pages at `brands.samstemper.com` once DNS is configured.
 
 Outputs:
 
